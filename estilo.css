@@ -1,0 +1,41 @@
+body {
+    background: blue url('imagens/fundo.jpg') repeat;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 900px;
+    align-items: center;
+}
+
+#menu{
+    background: #1E4EC0;
+    padding: 15px;
+}
+
+#conteudo{
+    color: white;
+    padding: 10px;
+}
+
+#rodape{
+    text-align: center;
+    color: white
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+.img-tecnologia{
+    width: 500px;
+    border: 10px solid blue;
+
+}
+
+h1{
+    color: white;
+    font-size: 1.2em;
+}
